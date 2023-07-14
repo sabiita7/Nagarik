@@ -1,0 +1,8 @@
+.main__footer{
+    color: rgb(253, 251, 249);
+    margin-top: 13rem;
+    width: 95rem;
+    height:200px;
+    background-color: rgb(25, 131, 9);
+    position: fixed;
+}
